@@ -151,3 +151,12 @@ img.dibley {
     width: 700px; /* Set the desired width */
     height: auto; /* Maintain aspect ratio */
 }
+
+.small-img {
+  width: 60%;
+}
+
+.carousel-image {
+  width: 20%; /* Reduces the image size by 80% */
+  margin: 0 auto; /* Centers the images within the carousel */
+}
